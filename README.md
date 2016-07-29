@@ -2,7 +2,7 @@
 Exploratory Data Analysis
 
 Boston_Marathon_simpleplots.py ->
-Simple python code created in iPython to create some exporatory graphs from the 2016 Boston Marathon. 
+Simple python code created in iPython to create some exploratory graphs from the 2016 Boston Marathon. 
 
 BostonvsMarathonGuide.py ->
 Coding in progress for comparison analysis between Marathon Guide data for all marathons run in 2015-2016 to the 2016 Boston Marathon results.
